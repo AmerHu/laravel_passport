@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21910691-42a7-4cdd-a112-36a9d012a407" name="qanadeel" url="http://qanadeelalrahma.org">
+        <fileTransfer host="qanadeelalrahma.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7c6bf8fe-9b40-4145-8b5c-46246a6ddbe2" name="qawafel" url="http://qanadeelalrahma.org">
+        <fileTransfer host="qanadeelalrahma.org" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
